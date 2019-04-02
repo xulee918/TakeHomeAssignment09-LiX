@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase2</string>
+    <string name="welcome_message">Welcome to Lee App!</string>
+    <string name="continue_message_button">Continue</string>
+    <string name="set">Set</string>
+    <string name="add">Add</string>
+    <string name="date_button_message">Send Todays Date</string>
+    <string name="title_activity_database_sender">database_sender</string>
+
+</resources>
